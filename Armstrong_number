@@ -11,3 +11,4 @@ def is_armstrong_number(number):
     return temp == number
     
 is_armstrong_number(5)
+print("neka promena direkt na github-u")
