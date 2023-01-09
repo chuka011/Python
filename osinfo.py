@@ -12,7 +12,7 @@
 # Description		: Displays some information about the OS you are running this script on
 
 import platform as pl
-
+print("neki print")
 profile = [
     "architecture",
     "linux_distribution",
