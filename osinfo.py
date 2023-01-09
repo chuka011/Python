@@ -45,3 +45,4 @@ class bcolors:
 for key in profile:
     if hasattr(pl, key):
         print(key + bcolors.BOLD + ": " + str(getattr(pl, key)()) + bcolors.ENDC)
+print("promena gore")
